@@ -1,0 +1,26 @@
+{
+  "name": "ajs-homework-3",
+  "version": "1.0.0",
+  "description": "Library for browser and node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/la-chispa/ajs-homework-3.git"
+  },
+  "keywords": [
+    "library"
+  ],
+  "author": "la-chispa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/la-chispa/ajs-homework-3/issues"
+  },
+  "homepage": "https://github.com/la-chispa/ajs-homework-3#readme",
+  "dependencies": {
+    "@la-chispa/ajs": "^1.0.0"
+  }
+}
